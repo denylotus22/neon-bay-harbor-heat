@@ -1,5 +1,9 @@
 # Neon Bay: Harbor Heat
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/denylotus22/neon-bay-harbor-heat/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/denylotus22/neon-bay-harbor-heat/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 An original top-down open-world crime game built for make.fun competition
 **gta6-01** ($1,666). No Rockstar Games assets, names, characters, map, art or
 music — the city, characters, vehicles, story, art and sound are all original.
@@ -41,3 +45,7 @@ http://localhost:8080). Keyboard and mouse, no network, no build step.
   chase, story complete), each ≤ 256 KiB.
 - `serve.ts` — tiny static server for local play.
 - `vendor/makefun-game.ts` — vendored make.fun library (unchanged from the kit).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=y40c9kj2&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
